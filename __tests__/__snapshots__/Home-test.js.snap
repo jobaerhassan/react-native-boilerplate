@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home snapShot 1`] = `
+<View
+  style={
+    {
+      "padding": 50,
+    }
+  }
+>
+  <Text>
+    Home
+  </Text>
+</View>
+`;
